@@ -1,0 +1,1160 @@
+.pluginfilecover2-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.pluginfilecover2-pluginfilecover2 {
+  width: 100%;
+  height: 1080px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.pluginfilecover2-pluginfilecover1 {
+  top: 0px;
+  left: 0px;
+  width: 1920px;
+  height: 3816px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(27, 27, 27, 1);
+}
+.pluginfilecover2-iso-noise101 {
+  top: 0px;
+  left: 0px;
+  width: 1920px;
+  height: 869px;
+  opacity: 0.21;
+  position: absolute;
+}
+.pluginfilecover2-image2121 {
+  top: 55px;
+  left: 329px;
+  width: 120px;
+  height: 120px;
+  position: absolute;
+}
+.pluginfilecover2-image471 {
+  top: 123px;
+  left: 551px;
+  width: 819px;
+  height: 689px;
+  opacity: 0.23;
+  position: absolute;
+}
+.pluginfilecover2-rectangle2 {
+  top: 593px;
+  left: 0px;
+  width: 1920px;
+  height: 276px;
+  position: absolute;
+}
+.pluginfilecover2-rectangle14 {
+  top: 1228px;
+  left: 0px;
+  width: 1920px;
+  height: 276px;
+  position: absolute;
+}
+.pluginfilecover2-rectangle16 {
+  top: 1970px;
+  left: 0px;
+  width: 1920px;
+  height: 276px;
+  position: absolute;
+}
+.pluginfilecover2-rectangle19 {
+  top: 2686px;
+  left: 0px;
+  width: 1920px;
+  height: 276px;
+  position: absolute;
+}
+.pluginfilecover2-rectangle3 {
+  top: 276px;
+  left: 1920px;
+  width: 1920px;
+  height: 276px;
+  position: absolute;
+}
+.pluginfilecover2-rectangle4 {
+  top: 1147px;
+  left: 1920px;
+  width: 1920px;
+  height: 276px;
+  position: absolute;
+}
+.pluginfilecover2-rectangle15 {
+  top: 1782px;
+  left: 1920px;
+  width: 1920px;
+  height: 276px;
+  position: absolute;
+}
+.pluginfilecover2-rectangle17 {
+  top: 2522px;
+  left: 1920px;
+  width: 1920px;
+  height: 276px;
+  position: absolute;
+}
+.pluginfilecover2-rectangle18 {
+  top: 3238px;
+  left: 1920px;
+  width: 1920px;
+  height: 276px;
+  position: absolute;
+}
+.pluginfilecover2-getkng {
+  gap: 10px;
+  top: 90px;
+  left: 1377px;
+  width: 173px;
+  height: 51px;
+  display: flex;
+  padding: 10px 32px;
+  position: absolute;
+  transition: 0.3s;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 7px;
+  justify-content: center;
+  background-color: rgba(0, 0, 0, 0);
+}
+.pluginfilecover2-getkng:hover {
+  background-color: #646464;
+}
+.pluginfilecover2-text {
+  top: 10px;
+  left: 30px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Lexend;
+  font-weight: 400;
+  text-decoration: none;
+}
+.pluginfilecover2-text02 {
+  top: 90px;
+  left: 426px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Lexend;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pluginfilecover2-text04 {
+  top: 367px;
+  left: 585px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 80px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Lexend;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pluginfilecover2-text06 {
+  top: 459px;
+  left: 867px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 80px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Lexend;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pluginfilecover2-text08 {
+  top: 555px;
+  left: 619px;
+  color: rgba(170, 170, 170, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Lexend;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pluginfilecover2-rectangle13 {
+  top: 870px;
+  left: 0px;
+  width: 1920px;
+  height: 634px;
+  position: absolute;
+}
+.pluginfilecover2-line1 {
+  top: 870px;
+  left: 0px;
+  width: 1920px;
+  height: 1px;
+  position: absolute;
+}
+.pluginfilecover2-line2 {
+  top: 1506px;
+  left: 0px;
+  width: 1920px;
+  height: 1px;
+  position: absolute;
+}
+.pluginfilecover2-line3 {
+  top: 2247px;
+  left: 485px;
+  width: 950px;
+  height: 1px;
+  position: absolute;
+}
+.pluginfilecover2-line4 {
+  top: 2962px;
+  left: 485px;
+  width: 950px;
+  height: 1px;
+  position: absolute;
+}
+.pluginfilecover2-text10 {
+  top: 929px;
+  left: 666px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Lexend;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pluginfilecover2-text11 {
+  font-weight: 400;
+}
+.pluginfilecover2-text13 {
+  top: 992px;
+  left: 771px;
+  color: rgba(170, 170, 170, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Lexend;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pluginfilecover2-rectangle12 {
+  top: 1078px;
+  left: 1321px;
+  width: 229px;
+  height: 229px;
+  position: absolute;
+  border-radius: 30px;
+}
+.pluginfilecover2-aim {
+  top: 1081px;
+  left: 370px;
+  width: 229px;
+  height: 334px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.pluginfilecover2-rectangle5 {
+  top: 0px;
+  left: 0px;
+  width: 229px;
+  height: 229px;
+  position: absolute;
+  border-radius: 30px;
+}
+.pluginfilecover2-text15 {
+  top: 229px;
+  left: 48px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Lexend;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pluginfilecover2-group11 {
+  top: 36px;
+  left: 35px;
+  width: 158px;
+  height: 158px;
+  position: absolute;
+}
+.pluginfilecover2-text17 {
+  top: 274px;
+  color: rgba(170, 170, 170, 1);
+  width: 229px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Lexend;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pluginfilecover2-af {
+  top: 1078px;
+  left: 684px;
+  width: 235px;
+  height: 337px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.pluginfilecover2-rectangle10 {
+  top: 0px;
+  left: 3px;
+  width: 229px;
+  height: 229px;
+  position: absolute;
+  border-radius: 30px;
+}
+.pluginfilecover2-text19 {
+  top: 232px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Lexend;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pluginfilecover2-text21 {
+  top: 277px;
+  left: 3px;
+  color: rgba(170, 170, 170, 1);
+  width: 229px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Lexend;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pluginfilecover2-frameicon-snowflake {
+  top: 52px;
+  left: 62px;
+  width: 111px;
+  height: 126px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.pluginfilecover2-vector {
+  top: 0px;
+  left: 0px;
+  width: 111px;
+  height: 126px;
+  position: absolute;
+}
+.pluginfilecover2-aa {
+  top: 1078px;
+  left: 1004px;
+  width: 229px;
+  height: 337px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.pluginfilecover2-rectangle11 {
+  top: 0px;
+  left: 0px;
+  width: 229px;
+  height: 229px;
+  position: absolute;
+  border-radius: 30px;
+}
+.pluginfilecover2-frameicon-bot {
+  top: 50px;
+  left: 62px;
+  width: 106.13448333740234px;
+  height: 130.6270751953125px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.pluginfilecover2-group {
+  top: 0px;
+  left: 0px;
+  width: 106.13448333740234px;
+  height: 130.6270751953125px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.pluginfilecover2-vector1 {
+  top: 77.58526611328125px;
+  left: 0px;
+  width: 106px;
+  height: 53px;
+  position: absolute;
+}
+.pluginfilecover2-vector2 {
+  top: 0px;
+  left: 12.246288299560547px;
+  width: 82px;
+  height: 65px;
+  position: absolute;
+}
+.pluginfilecover2-text23 {
+  top: 232px;
+  left: 26px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Lexend;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pluginfilecover2-text25 {
+  top: 277px;
+  color: rgba(170, 170, 170, 1);
+  width: 229px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Lexend;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pluginfilecover2-frameiconellipseshorizontal {
+  top: 1182px;
+  left: 1379px;
+  width: 113.28903198242188px;
+  height: 22.657806396484375px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.pluginfilecover2-vector3 {
+  top: 0px;
+  left: 0px;
+  width: 113px;
+  height: 23px;
+  position: absolute;
+}
+.pluginfilecover2-text27 {
+  top: 1310px;
+  left: 1323px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Lexend;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pluginfilecover2-text29 {
+  top: 1355px;
+  left: 1321px;
+  color: rgba(170, 170, 170, 1);
+  width: 229px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Lexend;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pluginfilecover2-text31 {
+  top: 1562px;
+  left: 856px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Lexend;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pluginfilecover2-text32 {
+  font-weight: 400;
+}
+.pluginfilecover2-text34 {
+  top: 1625px;
+  left: 866px;
+  color: rgba(170, 170, 170, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Lexend;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pluginfilecover2-text36 {
+  top: 2364px;
+  left: 891px;
+  color: rgba(170, 170, 170, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Lexend;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pluginfilecover2-safety {
+  top: 1778px;
+  left: 365px;
+  width: 381px;
+  height: 296px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.pluginfilecover2-text38 {
+  top: 91px;
+  left: 133px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pluginfilecover2-text40 {
+  top: 151px;
+  color: rgba(170, 170, 170, 1);
+  width: 381px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pluginfilecover2-icons8501 {
+  top: 0px;
+  left: 153px;
+  width: 75px;
+  height: 75px;
+  position: absolute;
+}
+.pluginfilecover2-regularupdates {
+  top: 1770px;
+  left: 773px;
+  width: 381px;
+  height: 362px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.pluginfilecover2-text42 {
+  top: 159px;
+  color: rgba(170, 170, 170, 1);
+  width: 381px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pluginfilecover2-text44 {
+  top: 99px;
+  left: 44px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pluginfilecover2-obnovleniej5zrhrackres5121 {
+  top: 0px;
+  left: 142px;
+  width: 92px;
+  height: 92px;
+  position: absolute;
+}
+.pluginfilecover2-umatter {
+  top: 1772px;
+  left: 1181px;
+  width: 381px;
+  height: 244px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.pluginfilecover2-text46 {
+  top: 157px;
+  color: rgba(170, 170, 170, 1);
+  width: 381px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pluginfilecover2-text48 {
+  top: 97px;
+  left: 94px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pluginfilecover2-obnovleniej5zrhrackres5122 {
+  top: 0px;
+  left: 147px;
+  width: 87px;
+  height: 87px;
+  position: absolute;
+}
+.pluginfilecover2-text50 {
+  top: 2303px;
+  left: 898px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pluginfilecover2-text52 {
+  top: 3020px;
+  left: 903px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pluginfilecover2-killer {
+  top: 2523px;
+  left: 551px;
+  width: 299px;
+  height: 385px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.pluginfilecover2-frame1 {
+  top: 0px;
+  left: 0px;
+  width: 299px;
+  height: 299px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 25px;
+}
+.pluginfilecover2-a-djav-wl1 {
+  top: -22px;
+  left: -43px;
+  width: 350px;
+  height: 320px;
+  position: absolute;
+}
+.pluginfilecover2-text54 {
+  top: 310px;
+  left: 104px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Lexend;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pluginfilecover2-text56 {
+  top: 355px;
+  left: 114px;
+  color: rgba(170, 170, 170, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Lexend;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pluginfilecover2-frame {
+  top: 2523px;
+  left: 1070px;
+  width: 299px;
+  height: 385px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.pluginfilecover2-frame11 {
+  top: 0px;
+  left: 0px;
+  width: 299px;
+  height: 299px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 25px;
+}
+.pluginfilecover2-image84f9f31e21f7e03529aaa9f95d3874051 {
+  top: -1px;
+  left: -1px;
+  width: 301px;
+  height: 301px;
+  position: absolute;
+}
+.pluginfilecover2-text58 {
+  top: 310px;
+  left: 103px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Lexend;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pluginfilecover2-text60 {
+  top: 355px;
+  left: 97px;
+  color: rgba(170, 170, 170, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Lexend;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pluginfilecover2-free {
+  top: 3174px;
+  left: 530px;
+  width: 340px;
+  height: 511px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(43, 43, 43, 1);
+}
+.pluginfilecover2-text62 {
+  top: 35px;
+  left: 120px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pluginfilecover2-line5 {
+  top: 128px;
+  left: 60px;
+  width: 220px;
+  height: 1px;
+  position: absolute;
+}
+.pluginfilecover2-line6 {
+  top: 227px;
+  left: 120px;
+  width: 100px;
+  height: 1px;
+  position: absolute;
+}
+.pluginfilecover2-line7 {
+  top: 326px;
+  left: 120px;
+  width: 100px;
+  height: 1px;
+  position: absolute;
+}
+.pluginfilecover2-text64 {
+  top: 163px;
+  left: 95px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pluginfilecover2-text66 {
+  top: 262px;
+  left: 79px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pluginfilecover2-text68 {
+  top: 361px;
+  left: 134px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pluginfilecover2-getkng1 {
+  gap: 10px;
+  top: 425px;
+  left: 84px;
+  width: 173px;
+  height: 51px;
+  display: flex;
+  padding: 10px 32px;
+  position: absolute;
+  transition: 0.3s;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 7px;
+  justify-content: center;
+  background-color: rgba(0, 0, 0, 0);
+}
+.pluginfilecover2-getkng1:hover {
+  border-color: rgba(255, 255, 255, 1);
+  background-color: #646464;
+}
+.pluginfilecover2-text70 {
+  top: 10;
+  left: 30px;
+  color: rgb(255, 255, 255);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: "Lexend";
+  font-weight: 400;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pluginfilecover2-ultra {
+  top: 3174px;
+  left: 1050px;
+  width: 340px;
+  height: 511px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(43, 43, 43, 1);
+}
+.pluginfilecover2-text71 {
+  top: 35px;
+  left: 115px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pluginfilecover2-line8 {
+  top: 128px;
+  left: 60px;
+  width: 220px;
+  height: 1px;
+  position: absolute;
+}
+.pluginfilecover2-line9 {
+  top: 227px;
+  left: 120px;
+  width: 100px;
+  height: 1px;
+  position: absolute;
+}
+.pluginfilecover2-line10 {
+  top: 321px;
+  left: 120px;
+  width: 100px;
+  height: 1px;
+  position: absolute;
+}
+.pluginfilecover2-text73 {
+  top: 163px;
+  left: 95px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pluginfilecover2-text75 {
+  top: 262px;
+  left: 27px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pluginfilecover2-text77 {
+  top: 356px;
+  left: 110px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pluginfilecover2-getkng2 {
+  gap: 10px;
+  top: 425px;
+  left: 84px;
+  width: 173px;
+  height: 51px;
+  display: flex;
+  padding: 10px 32px;
+  position: absolute;
+  transition: 0.3s;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 7px;
+  justify-content: center;
+  background-color: rgba(251, 250, 249, 0);
+}
+.pluginfilecover2-getkng2:hover {
+  background-color: #646464;
+}
+.pluginfilecover2-text79 {
+  top: 10;
+  left: 30px;
+  color: rgb(255, 255, 255);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: "Lexend";
+  font-weight: 400;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pluginfilecover2-text80 {
+  top: 3267px;
+  left: 1160px;
+  color: rgba(170, 170, 170, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pluginfilecover2-text82 {
+  top: 3741px;
+  left: 849px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
